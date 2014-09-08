@@ -6,7 +6,7 @@
 		<url>scm:git:git@github.com:rahulgoutam07/hw0-rgoutam.git</url>
 		<connection>scm:git:git@github.com:rahulgoutam07/hw0-rgoutam.git</connection>
 		<developerConnection>scm:git:git@github.com:rahulgoutam07/hw0-rgoutam.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>hw0-rgoutam-0.0.19</tag>
   </scm>
 	<repositories>
 		<repository>
@@ -71,5 +71,5 @@
 			<version>1.3.3</version>
 		</dependency>
 	</dependencies>
-	<version>0.0.19-SNAPSHOT</version>
+	<version>0.0.19</version>
 </project>
